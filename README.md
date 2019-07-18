@@ -1,3 +1,3 @@
-## Members
+## Membership
 
-https://github.com/inspecta-danger-zone/idz-staff/wiki
+follow: [this link](https://github.com/inspecta-danger-zone/idz-staff/wiki) to get more info 
